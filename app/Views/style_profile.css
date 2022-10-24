@@ -1,0 +1,182 @@
+        .div {
+            display: flex;
+            max-width: 320px;
+            height: 400px;
+            width: 320px;
+            border-radius: 20px;
+            background-color: rgba(3, 50, 118, 1);
+        }
+
+        .div-2 {
+            display: flex;
+            position: relative;
+            min-width: 20px;
+            min-height: 20px;
+            max-width: 319.5652160644531px;
+            border-radius: 20px;
+        }
+
+        .image {
+            object-fit: cover;
+            object-position: center;
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            top: 0;
+            left: 0;
+        }
+
+        .image-sizer {
+            width: 100%;
+            padding-top: 125.17006854692345%;
+            pointer-events: none;
+            font-size: 0;
+        }
+
+        .div-3 {
+            max-width: 188px;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            border-color: rgba(15, 152, 248, 1);
+            border-width: 1px;
+            border-style: solid;
+            color: rgba(15, 152, 248, 1);
+            font-size: 48px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Cairo", sans-serif;
+        }
+
+        .div-4 {
+            display: flex;
+            position: relative;
+            min-width: 20px;
+            min-height: 20px;
+            max-width: 1092px;
+        }
+
+        .image-sizer-2 {
+            width: 100%;
+            padding-top: 76.37362637362637%;
+            pointer-events: none;
+            font-size: 0;
+        }
+
+        .div-5 {
+            display: flex;
+            max-width: 720px;
+            height: 834px;
+            width: 720px;
+            background-color: rgba(15, 152, 248, 0.44999998807907104);
+        }
+
+        .div-6 {
+            max-width: 92px;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            border-color: rgba(15, 152, 248, 1);
+            border-width: 1px;
+            border-style: solid;
+            color: rgba(15, 152, 248, 1);
+            font-size: 32px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Cairo", sans-serif;
+        }
+
+        .div-7 {
+            display: flex;
+            max-width: 568px;
+            height: 714px;
+            width: 568px;
+            border-radius: 20px;
+            background-color: rgba(255, 255, 255, 0.8700000047683716);
+        }
+
+        .div-8 {
+            max-width: 140px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-9 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-10 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-11 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-12 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-13 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-14 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-15 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-16 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
+
+        .div-17 {
+            max-width: 138px;
+            color: rgba(15, 76, 144, 0.6499999761581421);
+            font-size: 24px;
+            letter-spacing: 0%;
+            text-align: left;
+            font-family: "Source Sans Pro", sans-serif;
+        }
